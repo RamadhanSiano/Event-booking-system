@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Gallery";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BookingsKe</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/gallery.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BookingsKe.styles.css" asp-append-version="true" />
+    <style>
+        /* Custom styles */
+        #gallery iframe {
+            width: 100%;
+            height: auto;
+            margin-bottom: 20px; /* Add some space between videos */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Gallery -->
+    <section id="gallery" class="pb-5">
+        <div class="container">
+            <h5 class="section-title h1">Memories of Beautiful Past Events</h5>
+            <div class="row">
+                <!-- Video 1 -->
+                <div class="col-md-12">
+                    <h6>Video 1: Title of the First Video</h6>
+                    <iframe width="360" height="315" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <!-- Video 2 -->
+                <div class="col-md-12">
+                    <h6>Video 2: Title of the Second Video</h6>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <!-- Video 3 -->
+                <div class="col-md-12">
+                    <h6>Video 3: Title of the Third Video</h6>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_3" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Gallery -->
+
+</body>
+</html>

@@ -1,0 +1,122 @@
+﻿body{
+    background-image: url('https://www.tripsavvy.com/thmb/I2PeYOSYosY1DGV4X1ZRLdqUoN0=/2000x1500/filters:fill(auto,1)/car-traveling-along-winding-road--maui--hawaii--america--usa-737142515-9d7096b173654472968075d805273c8f.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    margin: 0;
+    padding: 0;
+}
+
+/* FontAwesome for working BootSnippet :> */
+
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+#team {
+}
+p10{
+    color: white;
+    font-size:20px;
+}
+
+h5{
+    color: white;
+    text-align:center;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #108d6f;
+    border-color: #108d6f;
+    box-shadow: none;
+    outline: none;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007b5e;
+    border-color: #007b5e;
+}
+
+section {
+    padding: 0px 0;
+}
+
+    section .section-title {
+        text-align: center;
+        color: white;
+        margin-bottom: 50px;
+        text-transform: uppercase;
+    }
+
+#team .card {
+    border: none;
+    background: #ffffff;
+}
+
+
+
+.image-flip:hover .frontside,
+.image-flip.hover .frontside {
+    -webkit-transform: ;
+    -moz-transform: ;
+    -o-transform: ;
+    transform: ;
+}
+
+.mainflip {
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -moz-transition: 1s;
+    -moz-transform: perspective(1000px);
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.frontside {
+    position: relative;
+    -webkit-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    z-index: 2;
+    margin-bottom: 30px;
+}
+
+
+
+.frontside,
+.backside {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -moz-transition: 1s;
+    -moz-transform-style: preserve-3d;
+    -o-transition: 1s;
+    -o-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+}
+
+    .frontside .card,
+    .backside .card {
+        min-height: 312px;
+    }
+
+       
+
+        .frontside .card .card-title,
+        .backside .card .card-title {
+            color: #007b5e !important;
+        }
+
+        .frontside .card .card-body img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+        }

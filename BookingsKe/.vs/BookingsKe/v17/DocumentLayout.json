@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BookingsKe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\views\\home\\bookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:views\\home\\bookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\wwwroot\\js\\bookings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:wwwroot\\js\\bookings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\views\\home\\archives.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:views\\home\\archives.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\wwwroot\\css\\gallary.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:wwwroot\\css\\gallary.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\wwwroot\\css\\event.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:wwwroot\\css\\event.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\wwwroot\\css\\gallary.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:wwwroot\\css\\gallary.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|c:\\users\\user\\source\\repos\\bookingske\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1775FF8B-0B65-463B-87AD-9092B320646A}|BookingsKe.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "wwwroot\\css\\home.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T10:02:58.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "Views\\Home\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T09:40:16.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gallary.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\css\\gallary.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\gallary.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\css\\gallary.css",
+              "RelativeToolTip": "wwwroot\\css\\gallary.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-24T12:16:30.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "gallary.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\css\\gallary.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\gallary.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\css\\gallary.css",
+              "RelativeToolTip": "wwwroot\\css\\gallary.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-24T12:15:01.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-24T12:14:09.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "event.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\css\\event.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\event.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\css\\event.css",
+              "RelativeToolTip": "wwwroot\\css\\event.css",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-23T13:57:58.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Archives.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\Views\\Home\\Archives.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Archives.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\Views\\Home\\Archives.cshtml",
+              "RelativeToolTip": "Views\\Home\\Archives.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T12:10:22.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T07:28:45.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:11:27.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:05:06.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:53:30.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bookings.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\js\\Bookings.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Bookings.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\wwwroot\\js\\Bookings.js",
+              "RelativeToolTip": "wwwroot\\js\\Bookings.js",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-22T06:42:49.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\Views\\Home\\Bookings.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Bookings.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\Views\\Home\\Bookings.cshtml",
+              "RelativeToolTip": "Views\\Home\\Bookings.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T08:44:17.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Events.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\Views\\Home\\Events.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Events.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\Views\\Home\\Events.cshtml",
+              "RelativeToolTip": "Views\\Home\\Events.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T08:41:13.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BookingsKe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BookingsKe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAABUAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T08:40:59.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
